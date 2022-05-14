@@ -1,7 +1,7 @@
 - 👋 안녕하세요. 울산빅보이 입니다.
 - 👀 하하하 히히히 호호호
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 하하하 히히히 호호호
+- 💞️ 하하하 히히히 호호호
 - 📫 ulsanbigboy@naver.com
 
 <!---
