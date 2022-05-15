@@ -1,0 +1,114 @@
+React Project Tutorial.파일
+---
+---
+---
+https://nodejs.org/en/
+node -v
+npm -v
+npm install -g create-react-app
+npm install -g yarn
+
+---
+---
+---
+C:
+cd C:\React Project Tutorial
+create-react-app management
+cd management
+yarn start
+
+---
+---
+---
+https://github.com/
+https://github.com/ulsanbigboy
+
+
+https://github.com/ndb796
+https://github.com/ndb796/React-Management-Tutorial
+
+
+git remote add origin https://github.com/ulsanbigboy/React-Management-Tutorial.git
+git push --set-upstream origin master
+
+
+git remote add origin https://github.com/ulsanbigboy/React-Management-Tutorial.git
+git pull origin main --allow-unrelated-histories
+
+
+
+
+
+
+                      https://github.com/ulsanbigboy/React-Management-Tutorial
+
+
+git remote add origin https://githun.com/ndb796/React-Management-Totorial.git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+  
+git config --global user.email ulsanbigboy@naver.com
+git config --global user.email ulsanbigboy
+git config --get-all user.name
+
+
+git remote add origin https://githun.com/ndb796/React-Management-Totorial.git
+git config --global user.email ulsanbigboy@naver.com
+git config --global user.email ulsanbigboy
+
+
+
+git init
+git branch -m main
+git remote add origin "github.com/ulsanbigboy/React-Management-Tutorial.git"
+git add .
+git commit -m "first commit"
+git push -u origin main
+
+
+
+
+
+https://github.com/ulsanbigboy/React-Management-Tutorial
+
+https://earth-95.tistory.com/87
+https://git-scm.com/download/win
+https://velog.io/@kimiszero/github-src-refspec-master-does-not-match-any-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95
+https://velog.io/@kimiszero/github-src-refspec-master-does-not-match-any-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95
+
+
+
+VScode Yarn Error (보안오류)
+https://velog.io/@ainochi95/VScode-Yarn-Error-%EB%B3%B4%EC%95%88%EC%98%A4%EB%A5%98
+
+
+
+
+
+
+
+
+
+---
+---
+---
+git config --global user.email ulsanbigboy@naver.com
+git config --global user.email ulsanbigboy
+
+
+---
+---
+---
+git init
+git branch -m main
+git remote add origin https://github.com/ulsanbigboy/react
+git add .
+git commit -m "first commit"
+git push -u origin main
+
+
+
+
+
+
