@@ -1,4 +1,4 @@
-React Project Tutorial.ÆÄÀÏ
+React Project Tutorial.íŒŒì¼
 ---
 ---
 ---
@@ -79,7 +79,7 @@ https://velog.io/@kimiszero/github-src-refspec-master-does-not-match-any-%ED%95%
 
 
 
-VScode Yarn Error (º¸¾È¿À·ù)
+VScode Yarn Error (ë³´ì•ˆì˜¤ë¥˜)
 https://velog.io/@ainochi95/VScode-Yarn-Error-%EB%B3%B4%EC%95%88%EC%98%A4%EB%A5%98
 
 
