@@ -5,6 +5,34 @@
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg?1566575158)
 
+
+## 참고 명령
+- 기본디렉토리 `cd D:\Front`
+- 버전확인 `node -v`
+- 버전확인 `npm -v`
+- 글러벌설치 `npm install -g create-react-app`
+- 글러벌설치 `npm install -g yarn`
+- 어플리케이션설치 `create-react-app management`
+- 디렉토리이동 `cd management`
+- 서버시작 `yarn start`
+- git push `git remote add origin https://github.com/`
+- git push `git push --set-upstream origin master`
+
+- client 설치 `npm install -g @vue/cli`
+- 프로젝트 만들기 `vue create test`
+- 디렉토리 이동 `cd test`
+- 서버 실행 `npm run serve`
+- router 설치 `npm install vue-router --save`
+- [Bootstrap Official Page](https://getbootstrap.com/)
+- [Bootstrap Vue Official Page](https://bootstrap-vue.org/)
+- bootstrap-vue 설치 `npm install vue bootstrap bootstrap-vue`
+- bootstrap-vue 설치 `yarn add vue bootstrap bootstrap-vue`
+- [Lifecycle-Diagram](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram/)
+- [lifecycle](https://v2.vuejs.org/images/lifecycle.png)
+
+
+
+
 **Vuetify Material Dashboard** is a beautiful resource built over [Vuetify](https://vuetifyjs.com/en/), [Vuex](https://vuex.vuejs.org/installation.html) and [Vuejs](https://vuejs.org/). It will help you get started developing dashboards in no time. Vuetify Material Dashboard is the official Vuejs version of the Original [Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard). Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vuejs](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
 
 We have created it thinking about things you actually need in a dashboard. **Vuetify Material Dashboard**  contains handpicked and optimized Vuejs plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on [Creative Tim](https://www.creative-tim.com) is a customization of this product.
