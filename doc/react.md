@@ -3,7 +3,6 @@
 
 ![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vuetify-material-dashboard.svg)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vuetify-material-dashboard.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg?1566575158)
 
 
 ## 참고 명령
@@ -95,19 +94,15 @@ Let us know your thoughts below. And good luck with development!
 
 
 ## Versions
-
-
-
-[<img src="https://pbs.twimg.com/profile_images/900908683927982080/GWykKJ7r_400x400.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro?ref=vtymdp-readme)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=vtymdp-readme)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-angular2?ref=vtymdp-readme)
 
 
-Vuetify | Vue | React | Angular | HTML |
-| --- | --- | --- | --- | --- |
-| [![Vuetify Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg)](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme) | [![Vue Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/87/original/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme) | [![Material Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/80/original/opt_mdp_react_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=vtymdp-readme)  | [![Material Dashboard PRO Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/original/opt_mdp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-angular2?ref=vtymdp-readme) | [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro/examples/dashboard.html?ref=vtymdp-readme)
+Vue | Angular | HTML |
+| --- | --- | --- |
+| [![Vue Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/87/original/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme) | [![Material Dashboard PRO Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/original/opt_mdp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-angular2?ref=vtymdp-readme) | [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro/examples/dashboard.html?ref=vtymdp-readme)
 
 ## Demo
 
