@@ -25,6 +25,10 @@ Let us know what you think and what we can improve below. And good luck with dev
 - [Bootstrap Vue Official Page](https://bootstrap-vue.org/)
 - bootstrap-vue 설치 `npm install vue bootstrap bootstrap-vue`
 - bootstrap-vue 설치 `yarn add vue bootstrap bootstrap-vue`
+- [Lifecycle-Diagram](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram/)
+- [lifecycle](https://v2.vuejs.org/images/lifecycle.png)
+
+
 
 
 - Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/)
