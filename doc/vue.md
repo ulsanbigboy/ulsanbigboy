@@ -15,14 +15,16 @@ We have created it thinking about things you actually need in a dashboard. **Vue
 
 Let us know what you think and what we can improve below. And good luck with development!
 
-## Getting Started
-- 글로벌설치 `npm install -g @vue/cli`
+## 참고 명령
+- client 설치 `npm install -g @vue/cli`
 - 프로젝트 만들기 `vue create test`
 - 디렉토리 이동 `cd test`
 - 서버 실행 `npm run serve`
-- 글로벌설치 `npm install vue-router --save`
-- Install Nodejs from [Bootstrap Official Page](https://getbootstrap.com/)
-- Install Nodejs from [Bootstrap Vue Official Page](https://bootstrap-vue.org/)
+- router 설치 `npm install vue-router --save`
+- [Bootstrap Official Page](https://getbootstrap.com/)
+- [Bootstrap Vue Official Page](https://bootstrap-vue.org/)
+- bootstrap-vue 설치 `npm install vue bootstrap bootstrap-vue`
+- bootstrap-vue 설치 `yarn add vue bootstrap bootstrap-vue`
 
 
 - Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/)
