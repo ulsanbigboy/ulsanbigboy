@@ -1,9 +1,5 @@
 
-
-
 rmdir /s /q "C:\React Project Tutorial\.git"
-
-
 "C:\React Project Tutorial\.git"
 del /s /q /f "C:\React Project Tutorial\.git"
 
