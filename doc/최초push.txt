@@ -1,3 +1,18 @@
+
+---
+--- ■1234
+---
+cd D:\Front\react
+git init
+git branch -m main
+git remote add origin https://github.com/ulsanbigboy/react.git
+git add .
+git commit -m "first commit"
+git push -u origin main
+
+---
+---
+---
 cd D:\Front\dev\backend\Simple-Homepage-React
 git init
 git add .
@@ -5,9 +20,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ulsanbigboy/egovframe-template-simple-backend.git
 git push -u origin main
-
-
-
 
 ---
 ---
@@ -23,17 +35,6 @@ git push -u origin main
 ---
 ---
 ---
-cd D:\Front\react
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ulsanbigboy/react.git
-git push -u origin main
-
----
----
----
 cd D:\Front\vue
 git init
 git add .
@@ -42,16 +43,9 @@ git branch -M main
 git remote add origin https://github.com/ulsanbigboy/vue.git
 git push -u origin main
 
-
-
-
-
-
-
-
-
-
-
+---
+---
+---
 cd C:\React Project Tutorial\management
 echo "# React-Management-Tutorial" >> README.md
 git init
@@ -61,17 +55,9 @@ git branch -M main
 git remote add origin https://github.com/ulsanbigboy/React-Management-Tutorial.git
 git push -u origin main
 
-
-
-
-git config --global user.email ulsanbigboy@naver.com
-git config --global user.email ulsanbigboy
-
-git push --set-upstream origin master
-git pull origin main --allow-unrelated-histories
-
-
-
+---
+---
+---
 git init
 git branch -m main
 git remote add origin "github.com/your_ropo.git"
@@ -79,8 +65,9 @@ git add .
 git commit -m "first commit"
 git push -u origin main
 
-
-
+---
+---
+---
 git init
 git branch -m main
 git remote add origin https://github.com/ulsanbigboy/React-Management-Tutorial.git
@@ -88,11 +75,10 @@ git add .
 git commit -m "first commit"
 git push -u origin main
 
-
-
-
-
-
-
-
-
+---
+---
+---
+git config --global user.email ulsanbigboy@naver.com
+git config --global user.email ulsanbigboy
+git push --set-upstream origin master
+git pull origin main --allow-unrelated-histories
