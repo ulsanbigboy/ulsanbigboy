@@ -105,3 +105,208 @@ git push -u origin main
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+d:
+cd D:\Front\react
+yarn start
+
+
+cd D:\Front
+git clone https://github.com/eGovFramework/egovframe-template-simple-react.git
+cd D:\Front\egovframe-template-simple-react
+npm install
+npm start
+
+
+
+
+청송군 안덕면 고와리  67
+https://github.com/
+ulsanbigboy@naver.com
+my401185
+
+
+
+
+
+
+// connect to SQL
+using (SqlConnection connection = 
+        new SqlConnection(connString))
+{
+    // make sure to enable triggers
+    // more on triggers in next post
+    SqlBulkCopy bulkCopy = 
+        new SqlBulkCopy
+        (
+        connection, 
+        SqlBulkCopyOptions.TableLock | 
+        SqlBulkCopyOptions.FireTriggers | 
+        SqlBulkCopyOptions.UseInternalTransaction,
+        null
+        );
+
+    // set the destination table name
+    bulkCopy.DestinationTableName = this.tableName;
+    connection.Open();
+
+    // write the data in the "dataTable"
+    bulkCopy.WriteToServer(dataTable);
+    connection.Close();
+}
+// reset
+this.dataTable.Clear();
+
+
+
+
+
+
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+
+
+
+
+
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL
+{
+
+public class BulkUploadToSql<T>
+{
+    public IList<T> InternalStore { get; set; }
+    public string TableName { get; set; }
+    public int CommitBatchSize { get; set; }=1000;
+    public string ConnectionString { get; set; }
+
+    public void Commit()
+    {
+        if (InternalStore.Count>0)
+        {
+            DataTable dt;
+            int numberOfPages = (InternalStore.Count / CommitBatchSize)  + (InternalStore.Count % CommitBatchSize == 0 ? 0 : 1);
+            for (int pageIndex = 0; pageIndex < numberOfPages; pageIndex++)
+                {
+                    dt= InternalStore.Skip(pageIndex * CommitBatchSize).Take(CommitBatchSize).ToDataTable();
+                BulkInsert(dt);
+                }
+        } 
+    }
+
+    public void BulkInsert(DataTable dt)
+    {
+        using (SqlConnection connection = new SqlConnection(ConnectionString))
+        {
+            // make sure to enable triggers
+            // more on triggers in next post
+            SqlBulkCopy bulkCopy =
+                new SqlBulkCopy
+                (
+                connection,
+                SqlBulkCopyOptions.TableLock |
+                SqlBulkCopyOptions.FireTriggers |
+                SqlBulkCopyOptions.UseInternalTransaction,
+                null
+                );
+
+            // set the destination table name
+            bulkCopy.DestinationTableName = TableName;
+            connection.Open();
+
+            // write the data in the "dataTable"
+            bulkCopy.WriteToServer(dt);
+            connection.Close();
+        }
+        // reset
+        //this.dataTable.Clear();
+    }
+
+}
+
+public static class BulkUploadToSqlHelper
+{
+    public static DataTable ToDataTable<T>(this IEnumerable<T> data)
+    {
+        PropertyDescriptorCollection properties =
+            TypeDescriptor.GetProperties(typeof(T));
+        DataTable table = new DataTable();
+        foreach (PropertyDescriptor prop in properties)
+            table.Columns.Add(prop.Name, Nullable.GetUnderlyingType(prop.PropertyType) ?? prop.PropertyType);
+        foreach (T item in data)
+        {
+            DataRow row = table.NewRow();
+            foreach (PropertyDescriptor prop in properties)
+                row[prop.Name] = prop.GetValue(item) ?? DBNull.Value;
+            table.Rows.Add(row);
+        }
+        return table;
+    }
+}
+
+
+
+
+var objBulk = new BulkUploadToSql<PuckDetection>()
+{
+        InternalStore = ListDetections,
+        TableName= "PuckDetections",
+        CommitBatchSize=1000,
+        ConnectionString="ENTER YOU CONNECTION STRING"
+};
+objBulk.Commit();
+
+
+
+//ADD COLUMN MAPPING
+foreach (DataColumn col in dt.Columns)
+{
+        bulkCopy.ColumnMappings.Add(col.ColumnName, col.ColumnName);
+}
+
+
+            // ■실행경로취득
+            string path = (System.Environment.CurrentDirectory).Substring(0,(System.Environment.CurrentDirectory).LastIndexOf("\\"));
+            path=path.Replace("\\","/");
+            GridGlobal.Mes.Core.Env.setBaseDir(path);
+            string configFile = GridGlobal.Mes.Core.Env._baseDir + "/Config/Config.ini";
+
+
+SHIFT+ALT+ENTER             Maximize Your Visual Studio Editor Window Space Fast ...
+CTRL+M,P CTRL+M,O           Where you see braces or regions in code, you can collapse or expand them with the keyboard shortcut Ctrl + M, P to expand or Ctrl + M, O to collapse.
+CTRL+(-)                    이전 편집위치
+SHIFT+F12                   참조한곳 출력
+SHIFT+F5                    디버기종료
+
+
+
+
+
