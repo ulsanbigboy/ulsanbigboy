@@ -10,3 +10,9 @@ ulsanbigboy/ulsanbigboy is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
+- 👋 [VS Code를 마우스 오른쪽 버튼에 등록 하기.txt ](http://ubb.iptime.org/fileExt/vs/VS Code를 마우스 오른쪽 버튼에 등록 하기.txt)
+- 👋 [VScode포터블모드로사용하기.jpg               ](http://ubb.iptime.org/fileExt/vs/VScode포터블모드로사용하기.jpg              )
+- 👋 [폰트변경.png                                 ](http://ubb.iptime.org/fileExt/vs/폰트변경.png                                )
+- 👋 [폰트변경.txt                                 ](http://ubb.iptime.org/fileExt/vs/폰트변경.txt                                )
