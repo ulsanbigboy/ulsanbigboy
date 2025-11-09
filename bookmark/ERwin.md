@@ -7,3 +7,4 @@
 - [erwin comment 로 logical 만들기](https://cofs.tistory.com/349)
 - [ERwin 을 사용 comment를 Logical 로 사용방법 (ESX-200에러)](http://blog.nuriware.com/archives/1070)
 - [[ErWin] Subject Area(주제영역) 만들기](https://zzznara2.tistory.com/726)
+- [erwin을 이용한 Forward Engineering 생성시 comment 추가하기](http://gubok.tistory.com/393)
