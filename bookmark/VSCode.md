@@ -9,6 +9,13 @@
 - [Visual Studio Code for PHP 개발 환경 설정 과정](https://tsblog.simulz.kr/m/1093)
 - [How to disable VS Code Auto Update](https://www.thewindowsclub.com/how-to-disable-vs-code-auto-update)
 
+- [VScode Yarn Error (보안오류)](https://velog.io/@ainochi95/VScode-Yarn-Error-%EB%B3%B4%EC%95%88%EC%98%A4%EB%A5%98)
+- [VS Code Extension 개발하기. 본 내용에 앞서 VS Code Extension을 개발하기 전 필요한…](https://medium.com/frontend-developers/vs-code-extension-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-ae933343d2b5)
+- [Vscode Extension (플러그인) 만들기_3](https://kdinner.tistory.com/8?category=308458)
+- [VS Code로 PHP시작하기](https://velog.io/@jiyoonoh-dev/VS-Code%EB%A1%9C-PHP%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [Visual Studio Code에서 PHP 개발하기](https://lordofkangs.tistory.com/m/41)
+- [[sftp] vscode 에서 서버 연결하기](https://poalim.tistory.com/19)
+
 
 - 🍈 [nexacro에서 객체, 폼, 프레임 간 접근방법.png                                     ](http://ubb.iptime.org/cdn/nexa/nexacro에서객체폼프레임간접근방법.png      )
 - 👋 [[Eclipse] 세로모드 사용하기 (컬럼).png                                           ](BBBBB)

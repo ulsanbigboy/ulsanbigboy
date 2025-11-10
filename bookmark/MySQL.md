@@ -6,3 +6,8 @@
 - [Mysql table, data 만 dump 하기](https://rawpixel.tistory.com/m/20)
 - [[MariaDB] 마리아DB 다운로드 및 (Windows) 윈도우에 설치 후 접속하기](https://reddb.tistory.com/m/102)
 - [mysql 백업, 복원 (DB, Table 백업, 복원)](https://server-talk.tistory.com/30)
+- [[MYSQL] FUNCTION, PROCEDURE, TABLE, VIEW 정보 확인](https://ensha.tistory.com/entry/MYSQL-FUNCTION-PROCEDURE-TABLE-VIEW-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8)
+- [mysql 에서 function, procddure 확인 및 수정](https://welchsy.tistory.com/261)
+- [[MariaDB] 마리아DB 다운로드 및 (Windows) 윈도우에 설치 후 접속하기](https://reddb.tistory.com/m/102)
+- [MariaDB 10.3.31 Release Notes](https://mariadb.com/kb/en/mariadb-10331-release-notes/)
+- [[MariaDB] 마리아DB 설치 방법 (윈도우 7 포함)](https://robotgoldfish.tistory.com/5)
