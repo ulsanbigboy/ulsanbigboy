@@ -4,6 +4,10 @@
 - 🍊 [폰트변경.txt                                                                     ](http://ubb.iptime.org/cdn/vs/폰트변경.txt                                 )
 - 🍋 [VS Code를 마우스 오른쪽 버튼에 등록 하기.txt                                     ](http://ubb.iptime.org/cdn/vs/VSCode를마우스오른쪽버튼에등록하기.txt       )
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug)
+- [vscode 에서 javascript 디버깅 하기](https://velog.io/@seolgang/vscode-%EC%97%90%EC%84%9C-javascript-%EB%94%94%EB%B2%84%EA%B9%85-%ED%95%98%EA%B8%B0)
+- [Visual Studio Code에서 JavaScript 실행을 위한 개발 환경 만들기 ](https://webnautes.tistory.com/1473)
+- [Visual Studio Code for PHP 개발 환경 설정 과정](https://tsblog.simulz.kr/m/1093)
+- [How to disable VS Code Auto Update](https://www.thewindowsclub.com/how-to-disable-vs-code-auto-update)
 
 
 - 🍈 [nexacro에서 객체, 폼, 프레임 간 접근방법.png                                     ](http://ubb.iptime.org/cdn/nexa/nexacro에서객체폼프레임간접근방법.png      )
