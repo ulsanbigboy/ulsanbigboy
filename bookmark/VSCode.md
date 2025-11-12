@@ -3,21 +3,25 @@
 - 🍉 [폰트변경.png                                                                     ](http://ubb.iptime.org/cdn/vs/폰트변경.png                                 )
 - 🍊 [폰트변경.txt                                                                     ](http://ubb.iptime.org/cdn/vs/폰트변경.txt                                 )
 - 🍋 [VS Code를 마우스 오른쪽 버튼에 등록 하기.txt                                     ](http://ubb.iptime.org/cdn/vs/VSCode를마우스오른쪽버튼에등록하기.txt       )
+
+
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug)
 - [vscode 에서 javascript 디버깅 하기](https://velog.io/@seolgang/vscode-%EC%97%90%EC%84%9C-javascript-%EB%94%94%EB%B2%84%EA%B9%85-%ED%95%98%EA%B8%B0)
 - [Visual Studio Code에서 JavaScript 실행을 위한 개발 환경 만들기 ](https://webnautes.tistory.com/1473)
 - [Visual Studio Code for PHP 개발 환경 설정 과정](https://tsblog.simulz.kr/m/1093)
 - [How to disable VS Code Auto Update](https://www.thewindowsclub.com/how-to-disable-vs-code-auto-update)
-
 - [VScode Yarn Error (보안오류)](https://velog.io/@ainochi95/VScode-Yarn-Error-%EB%B3%B4%EC%95%88%EC%98%A4%EB%A5%98)
-- [VS Code Extension 개발하기. 본 내용에 앞서 VS Code Extension을 개발하기 전 필요한…](https://medium.com/frontend-developers/vs-code-extension-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-ae933343d2b5)
+- [VS Code Extension 개발하기. 본 내용에 앞서 VS Code Extension을 개발하기 전 필요한…](https://medium.com/frontend-developers/vs-code-extension-개발하기-ae933343d2b5)
+- [[sftp] vscode 에서 서버 연결하기](https://poalim.tistory.com/m/19)
+
+
+
 - [Vscode Extension (플러그인) 만들기_3](https://kdinner.tistory.com/8?category=308458)
 - [VS Code로 PHP시작하기](https://velog.io/@jiyoonoh-dev/VS-Code%EB%A1%9C-PHP%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [Visual Studio Code에서 PHP 개발하기](https://lordofkangs.tistory.com/m/41)
 - [[sftp] vscode 에서 서버 연결하기](https://poalim.tistory.com/19)
 
 
-- 🍈 [nexacro에서 객체, 폼, 프레임 간 접근방법.png                                     ](http://ubb.iptime.org/cdn/nexa/nexacro에서객체폼프레임간접근방법.png      )
 - 👋 [[Eclipse] 세로모드 사용하기 (컬럼).png                                           ](BBBBB)
 - 👋 [[Tip] Listview Row Size 조절하기....png                                          ](BBBBB)
 - 👋 [[문제해결]이클립스(eclipse)구동시바탕호면에(.eclipseextension)자동폴더생성.png   ](BBBBB)

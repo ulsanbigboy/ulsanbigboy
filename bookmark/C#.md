@@ -1,5 +1,4 @@
 
-- 🍈 [nexacro에서 객체, 폼, 프레임 간 접근방법.png                                     ](http://ubb.iptime.org/cdn/nexa/nexacro에서객체폼프레임간접근방법.png      )
 
 
 - [[C#] DataTable Column(컬럼) 순서 변경](http://blog.naver.com/PostView.nhn?blogId=tkdska6&logNo=140202500349&redirect=Dlog&widgetTypeCall=true&directAccess=false)
@@ -50,3 +49,7 @@
 - [Increase Width and Height of Headers in TabControl](https://stackoverflow.com/questions/38942995/increase-width-and-height-of-headers-in-tabcontrol)
 - [Saving DataTable to SQLite Database by Adapter.Update](https://stackoverflow.com/questions/20419630/saving-datatable-to-sqlite-database-by-adapter-update/36367692)
 - [Bulk Insert in Microsoft.Data.Sqlite](https://www.bricelam.net/2017/07/20/sqlite-bulk-insert.html)
+
+- [C# equivalent to java prepared statement](https://stackoverflow.com/questions/17921492/c-sharp-equivalent-to-java-prepared-statement)
+- [C# SqlParameter 클래스](http://www.csharpstudy.com/Data/SQL-parameter.aspx)
+- [C# getting its own class name](https://stackoverflow.com/questions/2113069/c-sharp-getting-its-own-class-name)
